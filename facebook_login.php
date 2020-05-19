@@ -8,8 +8,8 @@ if(isset($_GET['state'])) {
 
 /*Step 1: Enter Credentials*/
 $fb = new \Facebook\Facebook([
-    'app_id' => '1881471198759145',
-    'app_secret' => 'b99f9d165e0899d99c4428ea1c3d3f60',
+    'app_id' => 'pretty_flowers2005@hotmail.ca',
+    'app_secret' => 'Alison2005N',
     'default_graph_version' => 'v2.10',
     //'default_access_token' => '{access-token}', // optional
 ]);
